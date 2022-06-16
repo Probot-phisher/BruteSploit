@@ -2025,7 +2025,7 @@ fu_un_attack_4 ()
 							echo -e "\t"$green"¦"
 							echo -e "\t"$green"¦$red Information"
 							echo -e "\t"$green"¦"
-							echo -e "\t"$green"¦––––$red► "$green" Instagram Brute Forcer Developed By N3TC@T .  \n"
+							echo -e "\t"$green"¦––––$red► "$green" Instagram Brute Forcer Developed By PROBOT [x-tremeblogs.tech].  \n"
 					elif [[ $case1 == "set" ]]
 						then
 							if [[ $case2 == "username" ]] 	&& [[ ! $case3 == "" ]]
